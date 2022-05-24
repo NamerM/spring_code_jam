@@ -4,4 +4,6 @@
  display: flex;
  justify-content: left;
  flex-direction: column;
+ background-color: #0882FF;
+ opacity: .90;
 }
