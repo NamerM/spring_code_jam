@@ -3,14 +3,14 @@
   align-items: center;
   display: flex;
   flex-direction: column;
-  gap: 50px;
+  gap: 80px;
 }
 
 .hobbies__container {
   width: 700px;
   display: flex;
   flex-direction: row;
-  gap: 20px;
+  gap: 40px;
 }
 
 .hobbies__text-heading {
@@ -21,8 +21,16 @@
 
 .hobbies__text-description {
   font-size: 30px;
+  width: 350px;
+}
+
+.hobbies__image-container {
+  border-radius: 60%;
+  height: 600px;
+  background-color: rgb(166, 214, 214);
 }
 
 .hobbies__image {
   height: 450px;
+  background-color: transparent;
 }
