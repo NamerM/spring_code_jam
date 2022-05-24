@@ -1,0 +1,28 @@
+.hobbies {
+  width: 1500px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.hobbies__container {
+  width: 700px;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.hobbies__text-heading {
+  font-size: 48px;
+  font-weight: 600;
+  color: green;
+}
+
+.hobbies__text-description {
+  font-size: 30px;
+}
+
+.hobbies__image {
+  height: 450px;
+}
