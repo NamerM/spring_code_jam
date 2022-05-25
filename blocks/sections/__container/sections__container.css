@@ -15,3 +15,14 @@
     gap: 20px;
   }
 }
+
+.sections__container-grid {
+  width: 700px;
+  height: 450px;
+  display: grid;
+  grid-template-columns: repeat(3, 233px);
+  grid-template-rows: repeat(1, auto);
+  gap: 40px;
+  border-bottom: solid #095aad 2px;
+  align-items: center;
+}

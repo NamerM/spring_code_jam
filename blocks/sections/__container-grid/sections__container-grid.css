@@ -1,0 +1,14 @@
+.sections__container-grid.css {
+  width: 700px;
+  height: 450px;
+  display: grid;
+  grid-template-columns: repeat(3, 220px);
+  grid-template-rows: repeat(1, auto);
+  margin: 0;
+  padding: 0;
+  gap: 40px;
+  border-bottom: solid #095aad 2px;
+
+}
+
+
