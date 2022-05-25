@@ -10,3 +10,9 @@
 .sections__image-book {
   width: 250px;
 }
+
+.sections__imageID {
+  height: 230px;
+  background-color: transparent;
+  margin: 6px;
+}
