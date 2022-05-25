@@ -9,12 +9,19 @@
 
 @media screen and (max-width: 720px){
   .sections {
-    width: 685px;
+    width: 630px;
     gap: 30px;
     align-items: center;
   }
 }
 
+@media screen and (max-width: 719px){
+  .sections {
+    max-width: 630px;
+    gap: 30px;
+    align-items: center;
+  }
+}
 
 @media screen and (max-width: 320px) {
   .sections {

@@ -4,11 +4,11 @@
 }
 
 .sections__image-tiktok {
-  width: 360px;
+  max-width: 360px;
 }
 
 .sections__image-book {
-  width: 250px;
+  max-width: 250px;
 }
 
 .sections__imageID {
@@ -26,6 +26,6 @@
 @media screen and (max-width: 320px) {
   .sections__image-tiktok {
     margin-top: 20px;
-    width: 290px;
+    max-width: 290px;
   }
 }

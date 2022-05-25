@@ -17,18 +17,28 @@
 }
 
 .sections__container-grid-second {
-  margin: 0;
-  background-color: #cce5ff;
+  background-color: #e9f4ff;
+}
+
+
+@media screen and (max-width: 720px) {
+  .sections__container-grid {
+    margin: 0;
+    max-width: 600px;
+    max-height: 470px;
+    grid-template-columns: 1fr, 2fr;
+    gap: 10px;
+    border: 0;
+  }
 }
 
 
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 719px) {
   .sections__container-grid {
     margin: 0;
-    max-width: 290px;
-    max-height: 470px;
-    grid-template-columns: 280px;
+    max-width: 600px;
+    grid-template-columns: repeat(1, auto);
     grid-template-rows: repeat(3, auto);
     gap: 10px;
     border: 0;
