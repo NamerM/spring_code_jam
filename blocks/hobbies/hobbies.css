@@ -27,12 +27,12 @@
 }
 
 .hobbies__image-container {
-  border-radius: 60%;
-  height: 450px;
+  border-radius: 50%;
+  height: 250px;
   background-color: #b9d2ec;
 }
 
 .hobbies__image {
-  height: 380px;
+  height: 230px;
   background-color: transparent;
 }
