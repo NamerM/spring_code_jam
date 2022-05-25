@@ -28,5 +28,6 @@
     grid-template-columns: 280px;
     grid-template-rows: repeat(3, auto);
     gap: 0px;
+    border: 0;
   }
 }
