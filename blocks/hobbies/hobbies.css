@@ -1,0 +1,38 @@
+.hobbies {
+  margin: 20px 0px;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+}
+
+.hobbies__container {
+  width: 700px;
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  border-bottom: solid #095aad 2px;
+}
+
+.hobbies__text-heading {
+  font-size: 48px;
+  font-weight: 600;
+  color: #095aad;
+}
+
+.hobbies__text-description {
+  font-size: 30px;
+  width: 380px;
+}
+
+.hobbies__image-container {
+  border-radius: 60%;
+  height: 450px;
+  background-color: #b9d2ec;
+}
+
+.hobbies__image {
+  height: 380px;
+  background-color: transparent;
+}
