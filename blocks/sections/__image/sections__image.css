@@ -16,3 +16,9 @@
   background-color: transparent;
   margin: 6px;
 }
+
+@media screen and (max-width: 320px) {
+  .sections__imageID {
+    margin-left: 35px;
+  }
+}

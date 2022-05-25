@@ -19,3 +19,10 @@
   font-weight: 600;
   font-style: normal;
 }
+
+
+@media screen and (max-width: 320px) {
+  .sections__text-story{
+    font-size: 18px;
+  }
+}
