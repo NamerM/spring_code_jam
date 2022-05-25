@@ -5,3 +5,9 @@
   margin: auto;
   text-align: center;
 }
+
+@media screen and (max-width:320px) {
+  .sections__text-heading{
+    font-size: 28px;
+  }
+}

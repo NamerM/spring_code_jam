@@ -5,3 +5,11 @@
   line-height: 1.15;
   margin-bottom: 20px;
 }
+
+/* @media screen and (max-width: 320px) {
+  .sections__text{
+    font-size: 18px;
+    line-height: 1;
+
+  }
+} */
