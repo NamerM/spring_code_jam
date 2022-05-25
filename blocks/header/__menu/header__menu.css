@@ -9,7 +9,7 @@
   line-height: 2;
   margin: 0;
 }
-@media screen and (max-width:320px) {
+@media screen and (max-width:450px) and (min-width: 320px) {
   .header__menu {
     margin: 0;
     padding-left: 0px;

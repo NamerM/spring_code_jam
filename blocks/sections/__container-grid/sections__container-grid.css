@@ -28,7 +28,6 @@
     max-height: 470px;
     grid-template-columns: 1fr, 2fr;
     gap: 10px;
-    border: 0;
   }
 }
 
@@ -42,7 +41,6 @@
     grid-template-columns: repeat(1, auto);
     grid-template-rows: repeat(3, auto);
     gap: 10px;
-    border: 0;
   }
 }
 
