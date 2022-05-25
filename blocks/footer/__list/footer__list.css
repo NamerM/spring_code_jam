@@ -1,0 +1,10 @@
+.footer__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.footer__list_inline {
+  list-style: none;
+  display: inline;
+}

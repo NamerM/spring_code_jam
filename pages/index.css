@@ -4,6 +4,7 @@
 /* BLOCKS*/
 @import url(../blocks/header/header.css);
 @import url(../blocks/sections/sections.css);
+@import url(../blocks/footer/footer.css);
 
 /* ELEMENTS*/
 @import url(../blocks/header/__menu-item/header__menu-item.css);
@@ -20,3 +21,6 @@
 @import url(../blocks/sections/__image-container/sections__image-container.css);
 @import url(../blocks/sections/__image/sections__image.css);
 
+@import url(../blocks/footer/__list/footer__list.css);
+@import url(../blocks/footer/image/footer__image.css);
+@import url(../blocks/footer/__column/footer__column.css);
