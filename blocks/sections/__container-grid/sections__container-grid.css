@@ -1,5 +1,5 @@
 .sections__container-grid {
-  width: 680px;
+  max-width: 680px;
   max-height: 450px;
   display: grid;
   /* grid-column: 1 / 4;
@@ -37,10 +37,12 @@
 @media screen and (max-width: 719px) {
   .sections__container-grid {
     margin: 0;
-    max-width: 600px;
+    max-width: 550px;
+    max-height: 750px;
     grid-template-columns: repeat(1, auto);
     grid-template-rows: repeat(3, auto);
     gap: 10px;
     border: 0;
   }
 }
+

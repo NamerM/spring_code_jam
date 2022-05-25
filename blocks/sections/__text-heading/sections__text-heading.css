@@ -6,7 +6,7 @@
   text-align: center;
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:575px) and (min-width: 320px) {
   .sections__text-heading{
     font-size: 28px;
   }

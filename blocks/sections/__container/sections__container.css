@@ -1,9 +1,8 @@
 .sections__container {
   width: 700px;
   height: 450px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
+  display: grid;
+
   gap: 40px;
   border-bottom: solid #095aad 2px;
   align-items: center;

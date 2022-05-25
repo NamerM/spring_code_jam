@@ -1,5 +1,5 @@
 .sections__image {
-  height: 230px;
+  max-height: 230px;
   background-color: transparent;
 }
 
@@ -12,7 +12,7 @@
 }
 
 .sections__imageID {
-  height: 230px;
+  max-height: 230px;
   background-color: transparent;
   margin: 6px;
 }

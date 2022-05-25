@@ -15,13 +15,22 @@
   }
 }
 
-@media screen and (max-width: 719px){
+@media screen and (max-width: 719px) and (min-width: 575px){
   .sections {
-    max-width: 630px;
+    max-width: 500px;
     gap: 30px;
     align-items: center;
   }
 }
+
+@media screen and (max-width: 574px) and (min-width: 321px) {
+  .sections {
+    max-width:295px;
+    gap: 30px;
+    align-items: center;
+  }
+}
+
 
 @media screen and (max-width: 320px) {
   .sections {
