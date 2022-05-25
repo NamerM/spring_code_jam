@@ -2,3 +2,7 @@
   margin-left:25px;
 
 }
+
+.footer__copyright {
+  justify-content: left;
+}
