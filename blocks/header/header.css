@@ -3,7 +3,7 @@
   justify-content: left;
   flex-direction: column;
   max-width: 1280px;;
-  margin: 15 auto auto 20px;
+  margin: 15 auto auto auto;
   padding: 0;
   background-color: #0882FF;
   opacity: .90;

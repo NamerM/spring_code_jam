@@ -7,32 +7,12 @@
   gap: 40px;
 }
 
-/* .hobbies__container {
-  width: 700px;
-  display: flex;
-  flex-direction: row;
-  gap: 40px;
-  border-bottom: solid #095aad 2px;
-} */
+@media screen and (max-width: 720px){
+  .sections {
+    width: 685px;
+    gap: 30px;
+    align-items: center;
+  }
+}
 
-/* .hobbies__text-heading {
-  font-size: 48px;
-  font-weight: 600;
-  color: #095aad;
-} */
 
-/* .hobbies__text-description {
-  font-size: 30px;
-  width: 380px;
-} */
-
-/* .hobbies__image-container {
-  border-radius: 50%;
-  height: 250px;
-  background-color: #b9d2ec;
-} */
-
-/* .hobbies__image {
-  height: 230px;
-  background-color: transparent;
-} */

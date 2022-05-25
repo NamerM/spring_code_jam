@@ -8,3 +8,10 @@
   border-bottom: solid #095aad 2px;
   align-items: center;
 }
+
+@media screen and (max-width: 720px){
+  .sections__container {
+    width: 650px;
+    gap: 20px;
+  }
+}
