@@ -13,6 +13,7 @@
 
 @import url(../blocks/sections/__container/sections__container.css);
 @import url(../blocks/sections/__container-grid/sections__container-grid.css);
+@import url(../blocks/sections/__title/sections__title.css);
 @import url(../blocks/sections/__text-heading/sections__text-heading.css);
 @import url(../blocks/sections/__text-description/sections__text-description.css);
 @import url(../blocks/sections/__image-container/sections__image-container.css);
