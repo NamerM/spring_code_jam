@@ -1,10 +1,11 @@
 .header__menu {
+  list-style: none;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
   max-width: 1280px;
-  padding-left:  calc( 1280 / 4);
-  padding-right: calc( 1280 / 4);
   opacity: .8;
   background-color: #004d99;
+  line-height: 2;
+  margin: 0;
 }

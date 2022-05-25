@@ -2,3 +2,8 @@
   text-decoration: none;
   color: white;
 }
+
+.header__menu-link:hover {
+  color: #141414;
+  text-shadow: 1px 1px #ffffff;
+}

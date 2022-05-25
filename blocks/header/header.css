@@ -1,9 +1,10 @@
 .header {
- margin: 0;
- padding: 0;
- display: flex;
- justify-content: left;
- flex-direction: column;
- background-color: #0882FF;
- opacity: .90;
+  display: flex;
+  justify-content: left;
+  flex-direction: column;
+  max-width: 1280px;;
+  margin: 15 auto auto 20px;
+  padding: 0;
+  background-color: #0882FF;
+  opacity: .90;
 }
