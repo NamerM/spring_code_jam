@@ -1,6 +1,6 @@
 .sections__container-grid {
   width: 680px;
-  height: 450px;
+  max-height: 450px;
   display: grid;
   /* grid-column: 1 / 4;
   grid-row: 1 / 3; */
@@ -27,7 +27,7 @@
     max-width: 290px;
     grid-template-columns: 280px;
     grid-template-rows: repeat(3, auto);
-    gap: 0px;
+    gap: 10px;
     border: 0;
   }
 }

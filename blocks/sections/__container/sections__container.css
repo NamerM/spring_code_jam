@@ -16,3 +16,10 @@
   }
 }
 
+@media screen and (max-width: 320px){
+  .sections__container {
+    width: 300px;
+    gap: 20px;
+  }
+}
+
