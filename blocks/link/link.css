@@ -1,0 +1,15 @@
+  .link {
+    text-decoration: none;
+    color: rgb(73, 73, 248);
+  }
+
+  .link:hover {
+    color: #250cb1;
+    /* text-shadow: 2px 1px #ffffff; */
+  }
+
+  @media screen and (max-width:320px) {
+    .link {
+      font-size: 11px;
+    }
+  }
