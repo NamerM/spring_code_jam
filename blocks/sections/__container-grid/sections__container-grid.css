@@ -45,7 +45,7 @@
   .sections__container-grid {
     margin: 0;
     max-width: 550px;
-    max-height: 750px;
+    max-height: 800px;
     grid-template-columns: repeat(1, auto);
     grid-template-rows: repeat(3, auto);
     gap: 10px;
