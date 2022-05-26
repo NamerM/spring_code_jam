@@ -10,13 +10,13 @@
 
 .sections__image-book {
   max-width: 250px;
-  margin-left: calc(100% /4);
+  margin-left: 10px;
 }
 
 .sections__image-goat {
-  max-width: 60%;
+  max-width: 70%;
   display: flex;
-  margin-left: calc(100% /4);
+  margin-left: calc(100% / 8);
   margin-bottom: 10px;
 }
 
