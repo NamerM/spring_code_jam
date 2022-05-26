@@ -10,11 +10,14 @@
 
 .sections__image-book {
   max-width: 250px;
-  margin-left: 60px;
+  margin-left: calc(100% /4);
 }
 
 .sections__image-goat {
   max-width: 60%;
+  display: flex;
+  margin-left: calc(100% /4);
+  margin-bottom: 10px;
 }
 
 /* .sections__imageID {

@@ -23,7 +23,7 @@
   background-color: #e9f4ff;
 }
 
-.sections__container-grid-third {
+.sections__container-flex {
   display: flex;
   flex-direction: column;
   align-items: center;
