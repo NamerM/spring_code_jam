@@ -1,5 +1,5 @@
 # spring_code_jam
-Namer M. - Ziskand S.(Partial Assistance)
+M. Namer - Shimritz Z. (Partial Assistance)
 - The team spirit is Baby Sinclair - and team name is Dino.
 - For more information please check , https://www.youtube.com/watch?v=HNR4hKbSH7I&t=3s
 
