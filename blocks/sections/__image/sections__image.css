@@ -1,6 +1,7 @@
 .sections__image {
   max-height: 230px;
   background-color: transparent;
+  margin: 6px;
 }
 
 .sections__image-tiktok {
@@ -16,18 +17,23 @@
   max-width: 60%;
 }
 
-.sections__imageID {
+/* .sections__imageID {
   max-height: 230px;
   background-color: transparent;
   margin: 6px;
+} */
+
+
+@media screen and (max-width: 720px) and (min-width: 320px) {
+  .sections__image {
+    max-height: 230px;
+    max-width: 230px;
+  }
 }
 
-
-
-
 @media screen and (max-width: 320px) {
-  .sections__imageID {
-    margin-left: 35px;
+  .sections__image {
+    margin: 10px auto 10px auto;
   }
 }
 
