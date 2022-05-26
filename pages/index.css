@@ -23,6 +23,7 @@
 @import url(../blocks/sections/__image-container/sections__image-container.css);
 @import url(../blocks/sections/__image/sections__image.css);
 
+@import url(../blocks/footer/__elements/footer__elements.css);
 @import url(../blocks/footer/__list/footer__list.css);
 @import url(../blocks/footer/image/footer__image.css);
 @import url(../blocks/footer/__column/footer__column.css);
