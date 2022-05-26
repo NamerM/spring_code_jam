@@ -10,6 +10,7 @@
 
 .sections__image-book {
   max-width: 250px;
+  margin-left: 10px;
 }
 
 .sections__image-goat {
@@ -41,14 +42,6 @@
   }
 }
 
-@media screen and (max-width: 320px) {
-  .sections__image-book{
-    margin-left: 20px;
-  }
-}
-@media screen and (max-width: 320px) {
-  .sections__image-goat {
-    margin-left: 52px;
-  }
-}
+
+
 
