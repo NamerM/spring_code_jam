@@ -30,6 +30,12 @@
   }
 }
 
+@media screen and (max-width: 320px) {
+  .sections__image-goat {
+    margin-left: 35px;
+  }
+}
+
 @media screen and (max-width:575px) and (min-width: 320px) {
   .sections__image-tiktok {
     margin-top: 20px;
