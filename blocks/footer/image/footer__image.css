@@ -2,3 +2,11 @@
   width: 25px;
   height: 25px;
 }
+
+
+@media screen and (max-width:320px) {
+  .footer__image {
+    width: 15px;
+    height: 15px;
+  }
+}
